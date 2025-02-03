@@ -93,7 +93,8 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
-![image](https://github.com/user-attachments/assets/31554758-79ce-45dd-80d8-e9e5d388b1e9)
+![image](https://github.com/user-attachments/assets/8a6b76f9-5d30-41e7-ba49-5e85d7dea9dd)
+
 
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
