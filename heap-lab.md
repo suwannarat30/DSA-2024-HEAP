@@ -104,6 +104,7 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
+![image](https://github.com/user-attachments/assets/6da842b0-c1a0-4de2-9873-1730b32167a9)
 
 ## การประยุกต์ใช้งานจริง
 
