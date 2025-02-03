@@ -291,3 +291,9 @@ if __name__ == "__main__":
 code python
 ```
 [Capture รูปส่งตรงนี้]
+
+![image](https://github.com/user-attachments/assets/07e7b8f4-3d2f-48ba-aeef-1a56d1b0a09b)
+
+![image](https://github.com/user-attachments/assets/5edfa067-f701-4686-ae85-e3cda3343420)
+
+![image](https://github.com/user-attachments/assets/aaca01c7-462a-4506-8470-d360d4d0d517)
