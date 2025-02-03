@@ -139,6 +139,9 @@ er.add_patient(Patient("คนไข้ C", 2))  # กระดูกหัก
 
 [Capture รูปผลการทดลองส่งตรงนี้]
 
+![image](https://github.com/user-attachments/assets/b9bbb4c7-7f72-4295-9daf-fdd12f5b54c1)
+
+
 ### 2. ระบบแนะนำสินค้าขายดี (Top K Items)
 ```python
 class ProductRanking:
